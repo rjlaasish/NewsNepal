@@ -1,0 +1,14 @@
+<svg id="action" xmlns="http://www.w3.org/2000/svg" width="4" height="16" viewBox="0 0 4 16">
+  <g id="Ellipse_4" data-name="Ellipse 4" fill="#fff" stroke="#fff" stroke-width="1">
+    <circle cx="2" cy="2" r="2" stroke="none"/>
+    <circle cx="2" cy="2" r="1.5" fill="none"/>
+  </g>
+  <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(0 6)" fill="#fff" stroke="#fff" stroke-width="1">
+    <circle cx="2" cy="2" r="2" stroke="none"/>
+    <circle cx="2" cy="2" r="1.5" fill="none"/>
+  </g>
+  <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(0 12)" fill="#fff" stroke="#fff" stroke-width="1">
+    <circle cx="2" cy="2" r="2" stroke="none"/>
+    <circle cx="2" cy="2" r="1.5" fill="none"/>
+  </g>
+</svg>

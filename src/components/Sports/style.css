@@ -1,0 +1,17 @@
+.tile-part{
+    display: flex;
+}
+
+.big-tile{
+    margin: 10px;
+    height: 80px;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.avatar-img{
+    margin-left: 10px;
+}

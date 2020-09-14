@@ -1,0 +1,61 @@
+.box {
+  width: 80px;
+  height: 100px;
+  position: relative;
+  /* margin-left: 5px; */
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.box-img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.overlay-and-text {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.overlay {
+  width: 80px;
+  height: 100px;
+  opacity: 0.4;
+  background-color: #000000;
+  border-radius: 10px;
+  z-index: 998;
+}
+
+/* .text {
+  position: relative;
+  text-align: start;
+  top: 0px;
+}*/
+
+.box-title {
+  z-index: 999;
+  width: 80px;
+  height: 50px;
+  color: #fff;
+  font-weight: bold;
+  overflow: hidden;
+  left: 5px;
+  bottom: 20px;
+  font-size: 12px;
+  position: absolute;
+}
+
+
+.time{
+    right: 5px;
+    bottom: 5px;
+    font-size: 8px;
+    position: absolute;
+    color: #fff;
+    
+}
