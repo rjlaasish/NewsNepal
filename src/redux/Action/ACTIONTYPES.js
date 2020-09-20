@@ -1,0 +1,2 @@
+export const GET_FEATURED_ITEMS="GET_FEATURED_ITEMS";
+export const SET_LOADING="SET_LOADING";

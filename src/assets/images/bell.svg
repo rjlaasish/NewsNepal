@@ -1,0 +1,7 @@
+<svg id="bell" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="baseline-add_alert-24px">
+    <path id="Path_600" data-name="Path 600" d="M0,0H24V24H0Z" fill="none"/>
+    <path id="Path_601" data-name="Path 601" d="M10.01,21.01a1.99,1.99,0,0,0,3.98,0Zm8.87-4.19V11a6.873,6.873,0,0,0-5.29-6.69V3.59a1.59,1.59,0,0,0-3.18,0v.72A6.873,6.873,0,0,0,5.12,11v5.82L3,18.94V20H21V18.94ZM16,13.01H13v3H11v-3H8V11h3V8h2v3h3Z" fill="#fff"/>
+  </g>
+  <rect id="Rectangle_2" data-name="Rectangle 2" width="10" height="10" transform="translate(7 7)" fill="#fff"/>
+</svg>

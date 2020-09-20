@@ -1,0 +1,23 @@
+.head{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0px;
+   padding: 0px 10px;
+  .round{
+     background-color: #00047E;
+     width: 20px;
+     height: 20px;
+     border-radius: 50%;
+     position: relative;
+     box-shadow: 0px 3px 6px #000000;
+
+     img{
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         transform: translate(-50%,-50%);
+     }
+ }
+}
