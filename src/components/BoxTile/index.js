@@ -1,5 +1,12 @@
 import React from "react";
+<<<<<<< HEAD
 import "./style.css";
+=======
+import Box from "@material-ui/core/Box";
+import { Button } from "@material-ui/core";
+import "./style.css";
+import CoronaImage from "../../assets/images/coronavirus.jpg";
+>>>>>>> 3c9846a0c2dc748a749e753aec0c401e9d60e498
 
 function BoxTile(props) {
 
