@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import React from 'react'
-=======
-import React, { useState } from 'react'
->>>>>>> 3c9846a0c2dc748a749e753aec0c401e9d60e498
 import './style.css'
 import hamIcon from '../../assets/images/HamIcon.svg'
 import searchIcon from '../../assets/images/search.svg'

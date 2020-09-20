@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { useHistory } from "react-router-dom";
 import newssrcicon from "../../assets/images/ratopati.png";
 import onlinekhabar from "../../assets/images/onlinekhabar.png";
-import grey from "../../assets/images/grey.jpg";
+
 import setopati from "../../assets/images/setopati.jpg";
 import { getFeaturedItems } from "../../redux/Action/FeaturedItemAction";
 import FeaturedPostPill from "../FeaturedPostPill";
